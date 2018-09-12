@@ -7,3 +7,5 @@ dependencies:
     - scikit-learn
     - matplotlib
     - pandas
+    - tensorflow
+    - keras
